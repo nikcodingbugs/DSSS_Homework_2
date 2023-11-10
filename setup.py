@@ -5,7 +5,7 @@ setup(
     version="0.1",
     entry_points={
         "console_scripts": [
-            "math_quiz = math_quiz.math_quiz"
+            "math_quiz = math_quiz.math_quiz:math_quiz"
         ]
     }
 )
